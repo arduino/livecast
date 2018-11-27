@@ -11,7 +11,7 @@ This example will allow you to play your favourite retro game with an Arduino-bu
 
 
 ## Wiring
-##### Connect the wires and components according to the fritzing below.
+#### Connect the wires and components according to the fritzing below.
 ![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%203%20-%20Retro%20game%20control/episode3_fritzing.png "Logo Title Text 1")
 
 
