@@ -134,6 +134,8 @@ After wiring and uploading the code, we can now start using the controller. What
 
 With this knowledge you can start exploring different ways of interacting with your computer, it doesn't have to be confined to games. You can for example find the keycode for your volume buttons on your computer, or make a very large space bar for aggressive writing sessions. 
 
+After completing this example, we can also encourage you to create your own set of buttons, by using copper tape and simple materials you can find at home. 
+
 
 
 
