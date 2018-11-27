@@ -107,7 +107,7 @@ void clearImage() {
 
 After wiring and uploading the code, we can now start making our own 'pictures' on the LED matrix. What we need to modify is the ledData.h file, which contains 3 different arrays: red, green & blue. Each array has 256 numbers. For example, if we want to modify pixel number 35, we go to number 35 in the array, and write a value between 1-256 to set the brightness of it. 
 
-In combination with this code, we can also use a tool call PixelCrafter, a Processing powered application that where we can draw a picture with different colours, and then export it in the form of arrays. 
+In combination with this code, we can also use a tool call PixelCrafter, a Processing powered application where we can draw a picture with different colours, and then export it in the form of arrays. 
 
 
 ## Outcome
