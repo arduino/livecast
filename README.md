@@ -4,6 +4,8 @@ The Arduino Livecast is an initiative inviting everyone to try making projects w
 
 [![Use NeoPixel screens by D. Cuartielles](img/livecast_1.png)](https://www.youtube.com/watch?v=CSY_eRZCTZk)
 
+*Click on the image to watch a video about using NeoPixel Matrixes, S02E06*
+
 The videos show projects made with Arduino UNO, MKR, NeoPixels, motors, buttons, LEDs ... and code. Feel free to download this repository, try it out, improve it, and send us comments. We will be glad to incorporate your ideas into future shows.
 
 Follow Arduino on [YouTube](https://www.youtube.com/subscription_center?add_user=arduinoteam), [Discord](https://discord.gg/KjW5CKp), and the [Arduino Forum](https://forum.arduino.cc). Join us and let's have fun learning together.
