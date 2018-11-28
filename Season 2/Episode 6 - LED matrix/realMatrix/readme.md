@@ -12,7 +12,7 @@ This example will allow you to modify your LED matrix with different arrays, and
 
 ## Wiring
 ##### Connect the wires and components according to the fritzing below.
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%206%20-%20LED%20matrix/episode6_fritzing.png "Logo Title Text 1")
+![alt text](episode6_fritzing.png "Breadboard design")
 
 
 
