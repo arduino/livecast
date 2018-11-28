@@ -2,7 +2,7 @@
 
 The Arduino Livecast is an initiative inviting everyone to try making projects with digital electronics. D. Cuartielles with the help of Malmo University students: Josefine and Karl, runs a weekly YouTube segment where he talks, demoes, and discusses technology. 
 
-[![Use NeoPixel screens by D. Cuartielles](img/livecast_1.jpg)](https://www.youtube.com/watch?v=CSY_eRZCTZk)
+[![Use NeoPixel screens by D. Cuartielles](img/livecast_1.png)](https://www.youtube.com/watch?v=CSY_eRZCTZk)
 
 The videos show projects made with Arduino UNO, MKR, NeoPixels, motors, buttons, LEDs ... and code. Feel free to download this repository, try it out, improve it, and send us comments. We will be glad to incorporate your ideas into future shows.
 
