@@ -18,6 +18,8 @@ This example will allow you to modify your LED matrix with different arrays, and
 
 ## PixelCrafter
 
+![alt text](img/episode6_fritzing.png "Breadboard design")
+
 Modify the *ledData.h* file to represent whatever you want to using this Processing sketch. For using it you will need to:
 
 * install Processing from [https://processing.org]
@@ -27,7 +29,7 @@ Modify the *ledData.h* file to represent whatever you want to using this Process
 * click on the *copy code* button to copy the code version of your drawing
 * paste the code in the *ledData.h* file, and upload it to your Arduino board
 
-![alt text](img/episode6_fritzing.png "Breadboard design")
+![alt text](img/pixelcrafter_window.png "PixelCrafter application")
 
 ## Code
 
