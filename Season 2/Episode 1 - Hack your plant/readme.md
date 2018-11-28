@@ -1,7 +1,7 @@
 # Episode 1 - Hack your plant
 
 
-This example will allow you collect data from your plant and give you notifications depending on the moist level of the plant. We are going to use a moist sensor and a couple of LEDs to indicate whether we have to water the plant or not.
+This example will allow you collect data from your plant and give you notifications depending on the moist level of the plant. We are going to use a moist sensor and a couple of LEDs to indicate whether we have to water the plant or not. To watch the video with David Cuartielles where he presents this example follow this link https://youtu.be/_VkSANzUnCw.
 
 ## Ingredients
 
