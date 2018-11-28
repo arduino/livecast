@@ -18,7 +18,6 @@ This example will allow you to modify your LED matrix with different arrays, and
 
 ## PixelCrafter
 
-![alt text](img/pixelcrafter_window.png "PixelCrafter application")
 <img src="img/pixelcrafter_window.png" align="left" height="300" >
 
 Modify the *ledData.h* file to represent whatever you want to using this Processing sketch. For using it you will need to:
