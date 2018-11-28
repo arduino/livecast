@@ -1,9 +1,13 @@
-/*************************************************************
-   MKR1000 Demo from Mastering Arduino: Beginner boards video
-   Author: m.ehrndal. Based on WiFi Web Server LED Blink.
-   Description: Turn on and off music with a button.
-   (c) 2013-2016 Arduino LLC.
-*************************************************************/
+/*
+   MKR1010 WiFi setup.
+   
+   Control LEDs and a servo with your phone/computer
+   over local WiFi.
+   
+   (c) 2018 Karl, Josefine and David for Arduino.
+   
+   based on code by (c) m.ehrndal, Arduino LLC.2013-2016
+*/
 
 //libraries
 #include <SPI.h>
