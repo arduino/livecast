@@ -4,17 +4,30 @@ This example will allow you to modify your LED matrix with different arrays, and
 
 
 ## Ingredients
-- Arduino UNO
-- LED Matrix (in this example a 16x16)
-- 2 buttons
-- Jumper wires 
+* Arduino UNO
+* LED Matrix (in this example a 16x16)
+* 2 buttons
+* Jumper wires 
 
 
 ## Wiring
-##### Connect the wires and components according to the fritzing below.
-![alt text](episode6_fritzing.png "Breadboard design")
 
+*Connect the wires and components according to the fritzing below.*
 
+![alt text](img/episode6_fritzing.png "Breadboard design")
+
+## PixelCrafter
+
+Modify the *ledData.h* file to represent whatever you want to using this Processing sketch. For using it you will need to:
+
+* install Processing from [https://processing.org]
+* double click on the *PC2.pde* file, what will open the sketch into the Processing IDE
+* click on the *play* button and start drawing
+* click on the *invert* checkbox (this is needed because LED matrixes are like a long strip of LEDs where every other row is going from right to left
+* click on the *copy code* button to copy the code version of your drawing
+* paste the code in the *ledData.h* file, and upload it to your Arduino board
+
+![alt text](img/episode6_fritzing.png "Breadboard design")
 
 ## Code
 

@@ -19,7 +19,7 @@ UI ui;
 ControlP5 cp5;
 PFont font;
 
-String ver = "v0001 alpha";
+String ver = "v0002 alpha";
 
 Serial myPort;
 
