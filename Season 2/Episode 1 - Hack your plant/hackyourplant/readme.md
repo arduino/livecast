@@ -14,7 +14,7 @@ This example will allow you collect data from your plant and give you notificati
 
 ## Wiring
 ##### Connect the wires and components according to the fritzing below.
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%201%20-%20Hack%20your%20plant/episode1_fritzing.png "Logo Title Text 1")
+![alt text](episode1_fritzing.png "Logo Title Text 1")
 
 
 
