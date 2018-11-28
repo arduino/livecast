@@ -1,7 +1,11 @@
 # Episode 1 - Hack your plant
 
 
-This example will allow you collect data from your plant and give you notifications depending on the moist level of the plant. We are going to use a moist sensor and a couple of LEDs to indicate whether we have to water the plant or not. You can watch this project being done by David Cuartielles, the co-founder of Arduino, by clicking into this link: https://youtu.be/_VkSANzUnCw.
+This example will allow you collect data from your plant and give you notifications depending on the moist level of the plant. We are going to use a moist sensor and a couple of LEDs to indicate whether we have to water the plant or not. 
+
+You can watch this project being done by David Cuartielles, the co-founder of Arduino on YouTube.
+
+[![Hack your plants with D. Cuartielles](https://img.youtube.com/vi/_VkSANzUnCw/0.jpg)](https://www.youtube.com/watch?v=_VkSANzUnCw)
 
 ## Ingredients
 
