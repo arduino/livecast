@@ -12,7 +12,7 @@ This example will show how we can control a LED matrix remotely through Bluetoot
 
 ## Wiring
  *Connect the wires and components according to the fritzing below.*
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%202%20-%20Tinker%20with%20RGB/img/episode2_fritzing.png "Logo Title Text 1")
+![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%208%20-%20Bluetooth%20Matrix%20Special/img/fritzing_episode8.png "Logo Title Text 1")
 
 
 
