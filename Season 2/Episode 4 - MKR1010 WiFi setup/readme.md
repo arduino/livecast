@@ -14,7 +14,7 @@ You can watch this project being done by David Cuartielles, the co-founder of Ar
 
 ## Wiring
 ##### Connect the wires and components according to the fritzing below.
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%204%20-%20MKR1010%20WiFi%20setup/MKR1010_config/episode4_fritzing.png "Logo Title Text 1")
+![Fritzing diagram](MKR1010_config/episode4_fritzing.png  "Fritzing diagram")
 
 
 

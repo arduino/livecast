@@ -18,7 +18,7 @@ You can watch this project being done by David Cuartielles, the co-founder of Ar
 
 ## Wiring
 ##### Connect the wires and components according to the fritzing below.
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%201%20-%20Hack%20your%20plant/img/episode1_fritzing.png "Logo Title Text 1")
+![Fritzing diagram](hackyourplant/episode1_fritzing.png "Fritzing diagram")
 
 
 
