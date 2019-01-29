@@ -14,7 +14,7 @@ This example will allow you to modify your LED matrix with different arrays, and
 
 *Connect the wires and components according to the fritzing below.*
 
-![alt text](img/episode6_fritzing.png "Breadboard design")
+![Fritzing diagram](realMatrix/episode6_fritzing.png "Fritzing diagram")
 
 ## PixelCrafter
 

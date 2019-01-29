@@ -12,7 +12,7 @@ This example will allow you to control an RGB LED with the help of a phototransi
 
 ## Wiring
  *Connect the wires and components according to the fritzing below.*
-![alt text](https://github.com/arduino/livecast/raw/master/Season%202/Episode%202%20-%20Tinker%20with%20RGB/img/episode2_fritzing.png "Logo Title Text 1")
+![Fritzing diagram](phototransistor/episode2_fritzing.png  "Fritzing diagram")
 
 
 
