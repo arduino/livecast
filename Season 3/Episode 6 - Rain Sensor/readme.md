@@ -14,7 +14,7 @@ This example will show how to use a rain sensor and a DHT11 humidity & temperatu
 
 ## Wiring
  *Connect the wires and components according to the fritzing below.*
-![alt text](https://github.com/arduino/livecast/raw/master/Season%203/Episode%203%20-%20Anemometer%20with%20Arduino%20Uno/S03E03_Fritzing.png "Logo Title Text 1")
+![alt text](https://github.com/arduino/livecast/raw/master/Season%203/Episode%206%20-%20Rain%20Sensor/fritzing_e4.png "Logo Title Text 1")
 
 
 
