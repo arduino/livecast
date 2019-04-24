@@ -1,6 +1,9 @@
 # Episode 3 - Rain Sensor + DHT11 with Arduino
 This example will show how to use a rain sensor and a DHT11 humidity & temperature sensor with an Arduino UNO.
 
+You can watch this project being done by David Cuartielles, the co-founder of Arduino on YouTube.
+
+[![Weather Station Project with D. Cuartielles](https://img.youtube.com/vi/_phW2BzEDfKY/0.jpg)](https://www.youtube.com/watch?v=phW2BzEDfKY)
 
 ## Ingredients
 - Arduino Uno
