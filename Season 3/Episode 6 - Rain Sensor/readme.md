@@ -3,7 +3,7 @@ This example will show how to use a rain sensor and a DHT11 humidity & temperatu
 
 You can watch this project being done by David Cuartielles, the co-founder of Arduino on YouTube.
 
-[![Weather Station Project with D. Cuartielles](https://img.youtube.com/vi/_phW2BzEDfKY/0.jpg)](https://www.youtube.com/watch?v=phW2BzEDfKY)
+[![Weather Station Project with D. Cuartielles](https://img.youtube.com/vi/_phW2BzEDfKY/1.jpg)](https://www.youtube.com/watch?v=phW2BzEDfKY)
 
 ## Ingredients
 - Arduino Uno
